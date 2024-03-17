@@ -33,7 +33,7 @@ If your view state has changed, you would normally manually go through changes a
 
 ## Playground
 
-Visit [playground](//kof.github.com/diff-renderer/demo/playground.html) to see it in action.
+Visit [playground](//kof.github.io/diff-renderer/demo/playground.html) to see it in action.
 
 ## Use cases
 
